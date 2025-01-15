@@ -4,7 +4,7 @@ export default {
     },
     rows: [
         {
-            cells: ['variant', `"warning" | "danger" | "neutral"`, 'intent-[intent]'],
+            cells: ['variant', `"warning" | "danger" | "neutral"`, 'variant-[variant]'],
         },
     ],
 }
